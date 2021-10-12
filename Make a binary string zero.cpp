@@ -7,7 +7,11 @@
    2. if the number representing the binary strind is odd, subtract 1 from it.
 
 */
+// Time Complexity : O(n)
+// Space Complexity : O(n)
 
+#include<iostream>
+using namespace std;
 int Makeitzero(string &S)
 {
     if(S.size()==0)
