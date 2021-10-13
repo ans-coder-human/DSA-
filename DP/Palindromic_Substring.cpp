@@ -7,6 +7,10 @@ A substring is a contiguous sequence of characters within the string.
 
 */ 
 
+
+// Time complexity : O(n^2)
+// Space complexity : O(n^2)
+
 #include<bits/stdc++.h>
 #include<iostream>
 

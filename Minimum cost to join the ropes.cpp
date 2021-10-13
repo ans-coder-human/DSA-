@@ -6,6 +6,9 @@ Find the minimum cost of joining all the ropes.
 
 */
 
+// Time Compexity : O(nlogn)
+// Space Complexity : O(n)
+
 #include<iostream>
 #include<bits/stdc++.h>
 
